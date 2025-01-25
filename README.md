@@ -7,6 +7,4 @@ Protein is mutated modeled protein (HER2-L755S) and the ligands are afatinib,ibr
 
 The two analysis were performed apo and holo states.Each analysis were performed replicates.
 
-The folder starts with "HER2_MD_results".In this folder,there are two folders called "Apo_files" and "Holo_files".
-
 The important input,output and respective plots were uploaded.
